@@ -41,3 +41,4 @@
 # ignore all of vcpkg
 /vcpkg
 
+.clang_format
